@@ -1,0 +1,9 @@
+{
+  "messenger": {
+    "address": "EQCiryb9uqla_RlEZVWbUHJfFKBoLIBDQq4bhsNtqmnnYUdM",
+    "owner": "EQAPSyLPiaASxuS80lG4fZXnyw_c0ECm58w2wUgbrUOxmOOZ",
+    "bridgeAddress": "EQDtd-bk0fDzEQN61l5Y6mX_jNYvCPXdqJJKd5ikxFs-ulS9"
+  },
+  "network": "https://testnet.toncenter.com/api/v2/jsonRPC",
+  "timestamp": "2024-11-22T13:17:35.533Z"
+}
